@@ -1,0 +1,58 @@
+- - -
+- - -
+x - -
+
+*****
+
+- - -
+- o -
+x - -
+
+*****
+
+- - -
+x o -
+x - -
+
+*****
+
+o - -
+x o -
+x - -
+
+*****
+
+o - -
+x o -
+x - x
+
+*****
+
+o - o
+x o -
+x - x
+
+*****
+
+o - o
+x o -
+x x x
+
+*****
+
+Game ended with line 3
+Player1 won the game!
+
+Bigger size of final board is shown below
+
+ooo-----ooo
+ooo-----ooo
+ooo-----ooo
+-----------
+xxx-ooo----
+xxx-ooo----
+xxx-ooo----
+-----------
+xxx-xxx-xxx
+xxx-xxx-xxx
+xxx-xxx-xxx

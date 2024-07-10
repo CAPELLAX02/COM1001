@@ -1,0 +1,69 @@
+x - -
+- - -
+- - -
+
+*****
+
+x - -
+- o -
+- - -
+
+*****
+
+x - -
+- o -
+x - -
+
+*****
+
+x - -
+o o -
+x - -
+
+*****
+
+x - -
+o o x
+x - -
+
+*****
+
+x o -
+o o x
+x - -
+
+*****
+
+x o -
+o o x
+x x -
+
+*****
+
+x o -
+o o x
+x x o
+
+*****
+
+x o x
+o o x
+x x o
+
+*****
+
+Tie!
+
+Bigger size of final board is shown below
+
+xxx-ooo-xxx
+xxx-ooo-xxx
+xxx-ooo-xxx
+-----------
+ooo-ooo-xxx
+ooo-ooo-xxx
+ooo-ooo-xxx
+-----------
+xxx-xxx-ooo
+xxx-xxx-ooo
+xxx-xxx-ooo

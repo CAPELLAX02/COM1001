@@ -1,0 +1,14 @@
+adventure, Grand Hotel, Around the World in 80 Days, Indiana Jones, Pirates of the Caribbean, film1, film2, film3, film4, film5, film6, film7, film9, film10, a, b, c, d, e, f, g, h, i
+biopic, Cavalcade, Gandhi, The King's Speech, A Beautiful Mind, film1, film2, film3, film4, film5, film6, film7, film9, film10, a, b, c, d, e, f, g, h, i
+comedy, How Green Was My Valley, It Happened One Night, Annie Hall, The Grand Budapest Hotel, film1, film2, film3, film4, film5, film6, film7, film9, film10, a, b, c, d, e, f, g, h, i
+crime, Casablanca, The French Connection, The Godfather, Goodfellas, film1, film2, film3, film4, film5, film6, film7, film9, film10, a, b, c, d, e, f, g, h, i
+drama, The Lost Weekend, Rain Man, Million Dollar Baby, Spotlight, film1, film2, film3, film4, film5, film6, film7, film9, film10, a, b, c, d, e, f, g, h, i
+epic, Gentleman's Agreement, Lawrence of Arabia, Ben-Hur, Gladiator, film1, film2, film3, film4, film5, film6, film7, film9, film10, a, b, c, d, e, f, g, h, i
+fantasy, Hamlet, The Lord of the Rings, Pan's Labyrinth, Harry Potter, film1, film2, film3, film4, film5, film6, film7, film9, film10, a, b, c, d, e, f, g, h, i
+musical, All the King's Men, My Fair Lady, West Side Story, La La Land, film1, film2, film3, film4, film5, film6, film7, film9, film10, a, b, c, d, e, f, g, h, i
+romance, All About Eve, Shakespeare in Love, The English Patient, Titanic, film1, film2, film3, film4, film5, film6, film7, film9, film10, a, b, c, d, e, f, g, h, i
+silent, Midnight Cowboy, The Artist, City Lights, film1, film2, film3, film4, film5, film6, film7, film9, film10, a, b, c, d, e, f, g, h, i
+sports, One Flew Over the Cuckoo's Nest, Rocky, Raging Bull, The Fighter, film1, film2, film3, film4, film5, film6, film7, film9, film10, a, b, c, d, e, f, g, h, i
+thriller, Kramer vs. Kramer, The Silence of the Lambs, No Country for Old Men, Se7en, film1, film2, film3, film4, film5, film6, film7, film9, film10, a, b, c, d, e, f, g, h, i
+war, Ordinary People, Platoon, The Hurt Locker, Saving Private Ryan, film1, film2, film3, film4, film5, film6, film7, film9, film10, a, b, c, d, e, f, g, h, i
+western, Chariots of Fire, Unforgiven, Dances with Wolves, The Good, the Bad and the Ugly, film1, film2, film3, film4, film5, film6, film7, film9, film10, a, b, c, d, e, f, g, h, i

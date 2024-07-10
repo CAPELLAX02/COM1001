@@ -1,0 +1,50 @@
+Alabama,AL,Cotton State,Montgomery
+Alaska,AK,The Last Frontier,Juneau
+Arizona,AZ,Grand Canyon State,Phoenix
+Arkansas,AR,The Natural State,Little Rock
+California,CA,Golden State,Sacramento
+Colorado,CO,The Centennial State,Denver
+Connecticut,CT,The Constitution State,Hartford
+Delaware,DE,The First State,Dover
+Florida,FL,The Sunshine State,Tallahassee
+Georgia,GA,The Peach State,Atlanta
+Hawaii,HI,The Aloha State,Honolulu
+Idaho,ID,The Gem State,Boise
+Illinois,IL,Prairie State,Springfield
+Indiana,IN,Hoosier State,Indianapolis
+Iowa,IA,The Hawkeye State,Des Moines
+Kansas,KS,The Sunflower State,Topeka
+Kentucky,KY,The Bluegrass State,Frankfort
+Louisiana,LA,The Pelican State,Baton Rouge
+Maine,ME,The Pine Tree State,Augusta
+Maryland,MD,The Old Line State,Annapolis
+Massachusetts,MA,The Bay State,Boston
+Michigan,MI,The Great Lakes State,Lansing
+Minnesota,MN,The North Star State,Saint Paul
+Mississippi,MS,The Magnolia State,Jackson
+Missouri,MO,The Show Me State,Jefferson City
+Montana,MT,The Treasure State,Helena
+Nebraska,NE,The Cornhusker State,Lincoln
+Nevada,NV,The Silver State,Carson City
+New Hampshire,NH,The Granite State,Concord
+New Jersey,NJ,The Garden State,Trenton
+New Mexico,NM,The Land of Enchantment,Santa Fe
+New York,NY,The Empire State,Albany
+North Carolina,NC,The Tar Heel State,Raleigh
+North Dakota,ND,The Peace Garden State,Bismarck
+Ohio,OH,The Buckeye State,Columbus
+Oklahoma,OK,The Sooner State,Oklahoma City
+Oregon,OR,The Beaver State,Salem
+Pennsylvania,PA,The Keystone State,Harrisburg
+Rhode Island,RI,The Ocean State,Providence
+South Carolina,SC,The Palmetto State,Columbia
+South Dakota,SD,Mount Rushmore State,Pierre
+Tennessee,TN,The Volunteer State,Nashville
+Texas,TX,The Lone Star State,Austin
+Utah,UT,The Beehive State,Salt Lake City
+Vermont,VT,The Green Mountain State,Montpelier
+Virginia,VA,The Old Dominion,Richmond
+Washington,WA,The Evergreen State,Olympia
+West Virginia,WV,The Mountain State,Charleston
+Wisconsin,WI,The Badger State,Madison
+Wyoming,WY,The Equality State,Cheyenne

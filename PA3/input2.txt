@@ -1,0 +1,13 @@
+1 March 2000
+Item_Names Monday Tuesday Wednesday Thursday Friday Saturday Sunday
+bag	   45	  43	  36	    54	     23	    45	     35
+Shoes	   92	  95	  87	    76	     77	    90	     80
+wAtcheS	   78	  79	  80	    84	     81	    85	     75
+Plate	   100	  101	  99	    95	     112    110	     105
+Tv80	   340	  320	  310	    325	     340    350	     360
+start
+TSHIRTS
+BAG
+SHOES
+TV80
+end

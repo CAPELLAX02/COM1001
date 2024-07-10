@@ -1,0 +1,32 @@
+Russia,17098246
+United States,9833517
+China,9596961
+Brazil,8515767
+Australia,7692024
+Canada,3855000
+India,3287263
+Argentina,2780400
+Mexico,1964375
+Indonesia,1904569
+South Africa,1221037
+Colombia,1141748
+Egypt,1002450
+Turkey,783562
+Thailand,513120
+Spain,505990
+Peru,496226
+Sweden,450295
+Japan,377975
+Germany,357022
+Nigeria,356669
+Vietnam,331212
+Pakistan,310403
+Italy,301340
+United Kingdom,242495
+France,211209
+Greece,131957
+New Zealand,103738
+South Korea,100210
+Portugal,92212
+Netherlands,41850
+Belgium,30528

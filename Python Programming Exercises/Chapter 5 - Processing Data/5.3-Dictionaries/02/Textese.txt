@@ -1,0 +1,9 @@
+anyone,ne1
+are,r
+ate,8
+band,b&
+be,b
+en,n
+ex,x
+to,2
+night,nite
